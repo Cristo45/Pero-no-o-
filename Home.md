@@ -1,1 +1,1 @@
-Welcome to the wysiwidi wiki!
+Please see [README](https://github.com/01org/wysiwidi/blob/master/README.md) for information.
