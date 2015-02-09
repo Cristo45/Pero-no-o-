@@ -2,16 +2,16 @@ Work-In-Progress notes about the state of interoperability (and lack thereof) of
 
 ### Wysiwidi as sink
 
-Device  | Software stack | Wi-Fi P2P | RTSP | Stream | Notes
-------- | -------------- | --------- | ---- | ------ | -----
+Source Device  | Software stack | Wi-Fi P2P | RTSP | Stream | Notes
+-------------- | -------------- | --------- | ---- | ------ | -----
 Nexus 5 | Android 5.0.1 | [[images/yes.png]] | [[images/yes.png]] | [[images/yes.png]] | Playback is not perfect, but works
 Some tablet | Windows 8.1 | [[images/question.png]] | [[images/no.png]] |  [[images/no.png]] | See 1) and issue #70.
 
 
 ### Wysiwidi as source
 
-Device  | Software stack | Wi-Fi P2P | RTSP | Stream | Notes
-------- | -------------- | --------- | ---- | ------ | -----
+Sink device  | Software stack | Wi-Fi P2P | RTSP | Stream | Notes
+------------ | -------------- | --------- | ---- | ------ | -----
 Microsoft Wireless Display |  | [[images/question.png]] | [[images/yes.png]] | [[images/yes.png]] |  See 1).
 Netgear Push2TV | Intel SDK? | [[images/yes.png]] | [[images/question.png]] | [[images/question.png]] | Needs re-testing
 Actiontec SBWD100A |  | [[images/yes.png]] | [[images/yes.png]] | [[images/yes.png]] | 
