@@ -13,7 +13,7 @@ Some tablet | Windows 8.1 | [[images/question.png]] | [[images/no.png]] |  [[ima
 Sink device  | Software stack | Wi-Fi P2P | RTSP | Stream | Notes
 ------------ | -------------- | --------- | ---- | ------ | -----
 Microsoft Wireless Display |  | [[images/question.png]] | [[images/yes.png]] | [[images/yes.png]] |  See 1).
-Netgear Push2TV | Intel SDK? | [[images/yes.png]] | [[images/question.png]] | [[images/question.png]] | Needs re-testing
+Netgear Push2TV | Intel SDK? | [[images/yes.png]] | [[images/yes.png]] | [[images/yes.png]] | 
 Actiontec SBWD100A |  | [[images/yes.png]] | [[images/yes.png]] | [[images/yes.png]] | 
 LG TV |  | [[images/yes.png]] | [[images/no.png]] | [[images/no.png]] | Issue #76
 
